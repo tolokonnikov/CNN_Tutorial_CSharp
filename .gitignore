@@ -26,3 +26,5 @@ replay_pid*
 # ignore csv data
 /data/
 out/
+/CNN/Data/mnist_test.csv
+/CNN/Data/mnist_train.csv
